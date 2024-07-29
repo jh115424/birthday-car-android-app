@@ -55,7 +55,7 @@ class MainActivity : ComponentActivity() {
         ) {
             Text(
                 text = message,
-                fontSize = 100.sp,
+                fontSize = 90.sp,
                 lineHeight = 116.sp,
                 textAlign = TextAlign.Center,
                 color = Color.Black,
